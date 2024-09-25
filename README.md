@@ -12,7 +12,7 @@
 We're going to discuss a number of the common operators and objects we'll use to
 perform arithmetic operations in JavaScript.
 
-In the browser's JavaScript console, we can test out all of the examples in this
+In the 's JavaScript console, we can test out all of the examples in this
 lesson. Remember that we can't redeclare variables previously declared with
 `const` or `let`, so the page may have to be refreshed (which wipes away all
 declared variables) or different variable names can be chosen than those in the
@@ -43,7 +43,7 @@ For example:
 
 0.1 + 0.1 + 0.1;
 //=> 0.30000000000000004
-
+browser
 1 - 0.9;
 //=> 0.09999999999999998
 ```
